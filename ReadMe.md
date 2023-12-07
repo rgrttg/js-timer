@@ -14,7 +14,7 @@ Use input fields to configure, and buttons to control the timer.
 Use Figma for drawing the mockup.
 Use VS Code, Live Server, Git/GitHub for developing and source control.
 
-## Projektphasen ---------- RETROSPEKTIVE ----------
+## Projektphasen ---------- RETROSPEKTIVE ----------vvvvvvvvvv
 ### 1 Planung und Recherche
 Di-Mo:
 Stundenplan... POS
@@ -55,6 +55,7 @@ gitHub... POS
 Figma... POS, Link unten... POS
 Retrospective (this)... POS 
 ...OK
+## ---------- RETROSPEKTIVE ----------^^^^^^^^^^
 
 ## Additional ideas
 Add buttons with duration presets which immediately restart the countdown.  DONE
