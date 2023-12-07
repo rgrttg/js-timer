@@ -48,8 +48,13 @@ Akustisches Signal?... NEG
 Do-NaMi:
 Ziffern (font) als split-flap-display... POS
 Gehäuse im Silver/Brown-Look... POS
-Aufhübschen... 
-Präsentieren
+Aufhübschen... (Fr?)
+Präsentieren... fällt weg
+Deliver...
+gitHub... POS 
+Figma... POS, Link unten... POS
+Retrospective (this)... POS 
+...OK
 
 ## Additional ideas
 Add buttons with duration presets which immediately restart the countdown.  DONE
@@ -74,7 +79,11 @@ Review of individual webpage, Figma mockup, retrospective protocol and GitHub us
 
 ## Deliverables
 GitHub link in simplonline.co
+https://simplonline.co/workspaces/individual/09617eaf-2c6e-46bd-8040-ae36bcb4b592
+
 Figma link in README.md auf GitHub
+https://www.figma.com/file/9CKfHXyCizXeYyrERY5n5j/P04-Timer?type=design&node-id=0%3A1&mode=design&t=gQIdI2VXQivPUUPI-1
+
 Retrospective document link in README.md auf GitHub
 Vernissage of your product in class
 
