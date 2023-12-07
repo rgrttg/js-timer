@@ -37,4 +37,5 @@ function show() {
   let sekunden = dauer % 60;
   if (sekunden < 10) sekunden = "0" + sekunden;
   document.getElementById("output").innerHTML = minuten + ":" + sekunden;
+  // console.log(sekunden)
 }

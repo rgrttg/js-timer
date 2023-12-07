@@ -1,0 +1,27 @@
+@font-face {
+  font-family: Download;
+  /* src: url(font/TickingTimebombBB.ttf); */
+  src: url(font/Solari.ttf);
+}
+
+.digits {
+  background-color: rgb(128, 13, 13);
+}
+
+#output {
+  font-family: Download;
+  font-size: 90px ;
+  background-color: silver;
+  color: black; /* schwarze Blätter */
+  
+  /* font-family: DS-Digital; Ari  */
+  /* font-family: Monofett; Google */
+}
+
+.container { 
+  background-color: black;
+}
+
+body { 
+  background-color: black;
+}

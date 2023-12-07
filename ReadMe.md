@@ -44,9 +44,11 @@ Mi-NaMi... NEG (Workshop)
 Do-Mo:
 Stoppen bei NUll... POS
 Anzeige in Minuten/Sekunden... POS
-Akustisches Signal?
-Aufhübschen...
+Akustisches Signal?... NEG
 Do-NaMi:
+Ziffern (font) als split-flap-display... POS
+Gehäuse im Silver/Brown-Look... POS
+Aufhübschen... 
 Präsentieren
 
 ## Additional ideas
