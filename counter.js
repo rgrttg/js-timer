@@ -20,7 +20,7 @@ function takt() {
   }
   else {
     stopp();
-    console.log("time's up");
+    alert("Die Zeit ist abgelaufen");
     // document.getElementById("output").innerHTML = "&#33" + "&#07;"; // ASCII #07 (BEL) geht nicht
   }
 }
