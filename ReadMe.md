@@ -14,7 +14,7 @@ Use input fields to configure, and buttons to control the timer.
 Use Figma for drawing the mockup.
 Use VS Code, Live Server, Git/GitHub for developing and source control.
 
-## Projektphasen
+## Projektphasen ---------- RETROSPEKTIVE ----------
 ### 1 Planung und Recherche
 Di-Mo:
 Stundenplan... POS
@@ -52,15 +52,16 @@ Aufhübschen...
 Präsentieren
 
 ## Additional ideas
-Add buttons with duration presets which immediately restart the countdown. DONE
-Display text, icon or image below the timer when the countdown is over.
-Play sound when the countdown is over.
+Add buttons with duration presets which immediately restart the countdown.  DONE
+Display text, icon or image below the timer when the countdown is over.     ALERT
+Play sound when the countdown is over.                                      NEGATIV
 Advanced: Shape the timer as a smaller box. When a countdown is started, 
 move the timer-box permanently within the current screen rectangle, 
 bouncing back from the borders of the screen.
 
 ## Finish
-Projekt-Abgabe: Donnerstag, 07.12.2023
+<!-- Projekt-Abgabe: Donnerstag, 07.12.2023 -->
+Finish your project at 16:15 of the 8th December
 including your own retrospective. 
 The vernissage will be held immediately afterwards in the classroom, 
 as well as a brief joint retrospective.
@@ -81,5 +82,9 @@ Vernissage of your product in class
 Countdown timer webpage that functions and looks good on mobile and desktop PC
 
 ## Files and Folders
-js-timer (local) / (git)
+counter.js
+index.html
 ReadMe.md (this)
+style.css
+font/
+  Solari.ttf
